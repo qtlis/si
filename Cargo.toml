@@ -1,0 +1,8 @@
+[package]
+authors = ["lis <lithm@posteo.de>"]
+name = "si"
+version = "0.1.0"
+
+[dependencies.si-macros]
+optional = false
+path = "lib/si-macros"
